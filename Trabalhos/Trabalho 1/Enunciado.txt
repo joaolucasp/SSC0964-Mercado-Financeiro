@@ -1,0 +1,19 @@
+O Trabalho 1, baseado na aula 4,  consiste em refazer a prática de Fronteira eficiente de Markowitz com 2 e 3 ativos diferentes daqueles utilizados na aula (GUAR3 e JBSS3) e (GUAR3, JBSS3 e PSSA3). O próprio Notebook da aula pode ser usado como base para o trabalho. 
+
+Devem ser escolhidos ativos (ações) com baixa correlação, com o objetivo de reduzir a volatilidade do portfólio.
+
+Devem ser exibidos: 
+
+  a) os gráficos de fronteira eficiente 
+
+  b) os gráficos de Drawdown
+
+  c) as rentabilidades anualizadas dos ativos que compõe os portfólios e dos próprios portfólios 
+
+  d) as volatilidades anualizadas dos ativos que compõe os portfólios e dos próprios portfólios
+
+O Notebook com as informações listadas acima deve ser convertido em pdf e enviado pelo e-disciplinas.
+
+O prazo para envio do trabalho é 1/4 e ele pode ser feito em duplas.
+
+Incluir o nome e número USP dos autores do trabalho no campo de comentários do e-disciplinas.
